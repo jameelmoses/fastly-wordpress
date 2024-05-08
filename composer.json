@@ -1,8 +1,8 @@
 {
-  "name": "interactivestrategies/fastly-wordpress",
+  "name": "jameelmoses/fastly-wordpress",
   "description": "Advanced Filtering for WordPress",
   "keywords": ["wordpress", "plugin"],
-  "homepage": "https://bitbucket.org/interactivestrategies/facetwp",
+  "homepage": "https://github.com/jameelmoses/fastly-wordpress",
   "authors": [{
     "name": "Fastly",
     "homepage": "https://github.com/fastly/WordPress-Plugin"
