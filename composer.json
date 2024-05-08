@@ -1,0 +1,14 @@
+{
+  "name": "interactivestrategies/fastly-wordpress",
+  "description": "Advanced Filtering for WordPress",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://bitbucket.org/interactivestrategies/facetwp",
+  "authors": [{
+    "name": "Fastly",
+    "homepage": "https://github.com/fastly/WordPress-Plugin"
+  }],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.0"
+  }
+}
